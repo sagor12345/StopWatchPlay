@@ -3,9 +3,8 @@
     <color name="colorPrimary">#000</color>
     <color name="colorPrimaryDark">#000</color>
     <color name="colorAccent">#D81B60</color>
-
     <color name="yallow">#ffc72b</color>
-
+    <color name="reset">#FF7902</color>
     <color name="black">#000</color>
     <color name="white">#fff</color>
     <color name="darkgray">#011010</color>
